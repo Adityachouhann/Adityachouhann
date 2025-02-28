@@ -1,59 +1,104 @@
 # Hi there, I'm Aditya Chouhan 👋  
 
-## About Me  
+## 🚀 About Me  
 
-I am a passionate data scientist and software developer with expertise in machine learning, data analysis, and artificial intelligence. With hands-on experience in various data science tools and technologies, I thrive on solving complex problems and delivering data-driven insights.  
+I am a **data scientist** and **AI enthusiast** with a strong background in **data analysis, visualization, and machine learning**. Skilled in handling complex datasets, building AI models, and applying statistical techniques to extract meaningful insights. Passionate about **AI ethics** and leveraging data-driven solutions to solve real-world problems.  
 
-- 🔭 I’m currently working on cutting-edge projects in data science and AI.  
-- 🌱 I’m currently learning advanced concepts in MLOps and NLP.  
-- 👯 I’m looking to collaborate on data science, AI, and machine learning projects.  
-- 💬 Ask me about data science, Python, and AI technologies.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya-chouhan-1634b8263)  
-- ⚡ Fun fact: I enjoy exploring the intersection of technology and business insights.  
+🎓 **Education:**  
+- **Bachelor of Computer Applications (2022 - 2025)** | Lakshmi Narain College of Technology, Bhopal  
+
+💡 **Interests:** AI Ethics, Machine Learning, Business Intelligence, and Data Storytelling  
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chouhann)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Adityachouhann)  
+[![Email](https://img.shields.io/badge/Email-chouhanadi434@gmail.com-red?logo=gmail)](mailto:chouhanadi434@gmail.com)  
 
 ---
 
-## Skills  
+## 🛠️ Skills  
+
+### Programming & Data Manipulation  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-6DB33F?logo=data&logoColor=white">
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FFD700?logo=engineering&logoColor=black">
+</p>
+
+### Data Visualization & Business Intelligence  
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-404D59?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Dashboard%20Creation-FFA500?logo=dashboard&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-6A0DAD?logo=data&logoColor=white">
+</p>
+
+### Machine Learning & AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/Supervised%20Learning-FF6F00?logo=machinelearning&logoColor=white">
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-008000?logo=machinelearning&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Model%20Evaluation-4682B4?logo=model&logoColor=white">
+</p>
+
+### Big Data, AI Ethics & Problem-Solving  
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Warehousing-4B0082?logo=data&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Query%20Optimization-32CD32?logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Bias%20Mitigation-DC143C?logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/Fairness%20in%20AI-20B2AA?logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/Critical%20Thinking-FFD700?logo=thinking&logoColor=black">
+</p>
 
 ### Languages  
-![English](https://img.shields.io/badge/Language-English-blue)  
-![Hindi](https://img.shields.io/badge/Language-Hindi-green)  
-
-### Technical Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-404D59?logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?logo=mlflow&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)  
-![Natural Language Processing](https://img.shields.io/badge/NLP-4A8BBE?logo=python&logoColor=white)  
-![MLOps](https://img.shields.io/badge/MLOps-6DB33F?logo=kubernetes&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/English-Proficient-blue">
+  <img src="https://img.shields.io/badge/Hindi-Native-green">
+</p>
 
 ---
 
-## Projects  
+## 💼 Experience  
 
-### [Blinkint Analysis](https://github.com/yourusername/blinkint-analysis)  
-- **Description:** A comprehensive project focused on analyzing Blinkint's data to derive actionable insights and optimize their operations. The project leverages advanced data analysis and visualization techniques.  
-- **Skills Used:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+### **Cognifyz Technology (Remote) | Data Analyst (April 2024 - May 2024)**  
+- Developed a **restaurant analysis project** using Python, Pandas, and NumPy.  
+- Created **visualizations** using Matplotlib and Seaborn to uncover key trends.  
 
-### [Restaurant Analysis](https://github.com/yourusername/restaurant-analysis)  
-- **Description:** A detailed study on restaurant data to understand customer behavior, sales trends, and operational efficiency. Utilized machine learning models to predict key performance metrics.  
-- **Skills Used:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?logo=tensorflow&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)  
-
----
-
-## Connect with Me  
-
-- [LinkedIn](https://www.linkedin.com/in/aditya-chouhan-1634b8263)  
-- [Email](mailto:chouhanadi434@gmail.com)  
+### **Accenture (Remote) | Data Analytics & Visualization (December 2024)**  
+- Completed a **virtual consulting project** simulating real-world data challenges.  
+- **Performed data analysis** to identify trends and developed **interactive dashboards** using Power BI.  
 
 ---
 
-Feel free to explore my projects and connect for collaborations or discussions in the data science and AI domains! 🚀  
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adityachouhann&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachouhann&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachouhann&layout=compact&theme=radical" alt="Top Languages">
+  <img width="48%" src="https://komarev.com/ghpvc/?username=Adityachouhann&color=blue" alt="Profile Views">
+</p>
+
+---
+
+## 🤝 Let's Collaborate  
+
+🚀 I'm open to **collaborations** in data science, AI, and machine learning!  
+If you're interested in working together, feel free to reach out.  
+
+📩 **Email:** [chouhanadi434@gmail.com](mailto:chouhanadi434@gmail.com)  
+🌍 **GitHub:** [Adityachouhann](https://github.com/Adityachouhann)  
+💼 **LinkedIn:** [Aditya Chouhan](https://www.linkedin.com/in/aditya-chouhann)  
+
+---
+
+🔥 *"Data is the new oil, and AI is the engine that drives it!"* 🚀  
