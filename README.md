@@ -1,3 +1,7 @@
+<p align="centre">
+  <img src="https://media.giphy.com/media/XP8kV1sQnHF9AL30GE/giphy.gif" alt="Lazy Work GIF" width="250"/>
+</p>
+
 # Hi there, I'm Aditya Chouhan 👋  
 
 ## 🚀 About Me  
@@ -86,4 +90,4 @@ If you're working on an interesting project or have an opportunity, let’s conn
 
 ---
 
-🔥 *"Data is the new oil, and AI is the engine that drives it!"* 🚀  
+🔥 *"Data is the new oil, and AI is the engine that drives it!"* 🚀
